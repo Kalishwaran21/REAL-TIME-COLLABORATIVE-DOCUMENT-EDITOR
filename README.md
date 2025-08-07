@@ -76,3 +76,5 @@ This simple approach works well for a single user, but what if two users send de
 
 #OUTPUT:
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2e21d52b-c40a-4435-a540-453decd88b27" />
+
