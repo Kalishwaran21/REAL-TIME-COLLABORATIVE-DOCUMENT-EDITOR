@@ -17,9 +17,9 @@
 
 The main challenge is to keep a single document consistent across multiple users who are all editing it simultaneously. Imagine two people, User A and User B, editing the same document.
 
-    User A types "hello" at the beginning of the document.
+   * User A types "hello" at the beginning of the document.
 
-    User B types "world" at the beginning of the document at the same time.
+   * User B types "world" at the beginning of the document at the same time.
 
 Without a robust system, the changes could overwrite each other, leading to a corrupt or inconsistent document. The solution is not to send the entire document on every keystroke, but to send small, atomic "operations" that describe the change.
 
